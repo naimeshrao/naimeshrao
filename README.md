@@ -34,10 +34,23 @@ I specialize in **React ecosystems, UI architecture, and enterprise dashboards**
 -  `Git` `GitHub` `Bitbucket` `CI/CD` `SonarQube` `npm` `yarn`
 
 **AI Tools:**  
-`ChatGPT` `GitHub Copilot`
+-  `ChatGPT` `GitHub Copilot`
 
 **CMS:**  
 -  `WordPress`
+
+## 🛠 Core Tech Stack
+
+| | |
+|---|---|
+| **Frontend** | **UI Libraries** |
+| `React` `TypeScript` `Vue` `JavaScript` | `Ant Design` `MUI` `Chakra UI` `Bootstrap` |
+| `HTML5` `CSS3` `SCSS` `TailwindCSS` `Styled Components` | `Storybook` |
+| **Animations** | **Tooling** |
+| `GSAP` `Framer Motion` `CSS Animations` `SVG` | `Git` `GitHub` `Bitbucket` `CI/CD` `SonarQube` `npm` `yarn` |
+| **CMS** | **AI Tools** |
+| `WordPress` | `ChatGPT` `GitHub Copilot` |
+
 
 
 🔗 [LinkedIn](https://www.linkedin.com/in/naimeshrao/)

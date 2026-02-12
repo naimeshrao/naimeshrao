@@ -36,4 +36,6 @@ I specialize in **React ecosystems, UI architecture, and enterprise dashboards**
 **AI Tools:**  
 -  `ChatGPT` `GitHub Copilot`
 
+---
+
 🔗 [LinkedIn](https://www.linkedin.com/in/naimeshrao/)

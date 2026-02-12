@@ -1,4 +1,4 @@
-# Hi 👋, I'm Naimesh (India)
+# Hi 👋, I'm Naimesh <sub>(India)</sub>
 
 ### 🚀 Frontend UI Developer | UI Architect 
 - Clean, scalable component architecture
@@ -16,16 +16,21 @@ I specialize in **React ecosystems, UI architecture, and enterprise dashboards**
 
 ## 🛠 Core Tech Stack
 
-**Frontend:**
-- `HTML5` `CSS3` `SCSS` `Tailwind` `React` `TypeScript` `Vue` `JavaScript (ES6+)` 
-**UI Libraries:**
+**Frontend:**  
+`HTML5` `CSS3` `SCSS` `Tailwind` `React` `TypeScript` `Vue` `JavaScript (ES6+)`
+
+**UI Libraries:**  
 `Ant Design` `MUI` `Chakra UI` `Bootstrap` `Styled Components` `Storybook`
+
 **Animations:**  
 `GSAP` `Framer Motion` `CSS Animations` `SVG`
+
 **CMS:**  
 `WordPress`
+
 **Tooling:**  
 `Git` `GitHub` `Azure DevOps` `Bitbucket` `CI/CD` `SonarQube` `npm` `yarn`
+
 **AI Tools:**  
 `ChatGPT` `GitHub Copilot`
 
